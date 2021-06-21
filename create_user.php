@@ -23,19 +23,19 @@
                 <form method="post" action="insert_data.php">
                     <div class="flex flex-col my-2">
                         <label for="email" class="mb-2">Email:</label>
-                        <input class="px-2 py-1" type="text" id="email" name="email" value="lasse@lasse.com">
+                        <input class="px-2 py-1" type="text" id="email" name="email" value="">
                     </div>
                     <div class="flex flex-col my-2">
                         <label for="username" class="mb-2">Username:</label>
-                        <input class="px-2 py-1" type="text" id="username" name="username" value="lasse">
+                        <input class="px-2 py-1" type="text" id="username" name="username" value="">
                     </div>
                     <div class="flex flex-col">
                         <label for="password" class="mb-2">Password:</label>
-                        <input class="px-2 py-1" type="password" id="password" name="password" value="password">
+                        <input class="px-2 py-1" type="password" id="password" name="password" value="">
                     </div>
                     <div class="flex flex-col">
                         <label for="repassword" class="mb-2">Re-password:</label>
-                        <input class="px-2 py-1" type="password" id="repassword" name="repassword" value="password">
+                        <input class="px-2 py-1" type="password" id="repassword" name="repassword" value="">
                     </div>
                     <button class="cursor-pointer w-full my-4 py-2 bg-blue-500 hover:bg-blue-800 hover:text-white" id="createUser" type="submit">
                         <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" class="bi bi-person-plus-fill inline mr-1" viewBox="0 0 16 16">

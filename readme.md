@@ -1,6 +1,10 @@
 # Simple Login System with PHP
 
-![login system](https://github.com/TheLoGgI/User-login/blob/master/login-system-image.JPG)
+![login system](https://github.com/TheLoGgI/User-login/blob/master/examples/login-system-image.jpg)
+
+![login system](https://github.com/TheLoGgI/User-login/blob/master/examples/login-system-create-user.jpg)
+
+![login system](https://github.com/TheLoGgI/User-login/blob/master/examples/login-system-user-logged-in.jpg)
 
 ## Resources
 - [Bootstrap icons](https://icons.getbootstrap.com/)
